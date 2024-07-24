@@ -1,5 +1,4 @@
 import re
-
 def is_valid_date(date_str):
   """
   Checks if a string is a valid date in YYYY-MM-DD format without using regular expressions.
